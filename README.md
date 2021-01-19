@@ -2,8 +2,7 @@
 
 ML-Classification, Python-JupyterNB
 
-Name: Mitchell Susa
-Name: Bhargav Rele
+Name: Mitchell Susa, Bhargav Rele
 
 1. The datasets for our analysis is the ‘Wine Quality' dataset that is available in the following link:
 https://archive.ics.uci.edu/ml/datasets/Wine+Quality
